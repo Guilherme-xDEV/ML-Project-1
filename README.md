@@ -1,1 +1,24 @@
 # ML-Project-1
+In this first project, my objective is to create an Email filter spam. This Machine Larning algorithm is able to detect when an Email is spam based on the words that constitute it.
+The core of the algorithm is a naive bayes probabilistic classification method that uses Bayes' Theorem to generate a table of probabilities.
+Naive Bayes is widely used in: Natural language processing, Medical diagnostics, Spam classification, Sentiment classification, Recommender systems.
+
+### libraries used:
+- pandas, numpy and sklearn
+
+### progress:
+-Day 1 (01/01): <br/>
+Uploaded the main files.
+trying to see ways to make the project more concise for everyday applications, making the algorithm more accurate or add a front-end basic integration?
+
+-Day 2 (02/01)
+
+-Day (03/01)
+
+-Day (04/01)
+
+-Day (05/01)
+
+-Day (06/01)
+
+-Day (07/01)
