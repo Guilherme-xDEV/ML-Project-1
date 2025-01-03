@@ -12,7 +12,10 @@ Uploaded the main files.
 trying to see ways to make the project more concise for everyday applications, making the algorithm more accurate or add a front-end basic integration?
 
 -Day 2 (02/01)
-Added new feature to the code; now the user can input email text to see if it is spam or not. 
+Added new feature to the code; now the user can input email text to see if it is spam or not.
+The model can now evaluate portuguese text, before it could only evaluate text in english <br/>
+txt file was improved for that.
+I'm considering an integration with HTML and JavaScript code, the user could have their text verified using an input box on a simple website that will display spam or normal.
 
 -Day (03/01)
 
