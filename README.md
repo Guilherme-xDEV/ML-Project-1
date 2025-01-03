@@ -12,6 +12,7 @@ Uploaded the main files.
 trying to see ways to make the project more concise for everyday applications, making the algorithm more accurate or add a front-end basic integration?
 
 -Day 2 (02/01)
+Added new feature to the code; 
 
 -Day (03/01)
 
