@@ -18,6 +18,7 @@ txt file was improved for that.
 I'm considering an integration with HTML and JavaScript code, the user could have their text verified using an input box on a simple website that will display spam or normal.
 
 -Day (03/01)
+An error occurred when I tried to combine the English and Portuguese languages ​​in the txt file. Trying to solve the problem and add more lines of text to the txt file.
 
 -Day (04/01)
 
