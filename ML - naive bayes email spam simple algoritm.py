@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
-spam_df = pd.read_csv("spam2.csv", encoding='utf-8')
+spam_df = pd.read_csv("spam.csv", encoding='utf-8')
 
 # Check for any null values and handle them
 spam_df.dropna(subset=['Message'], inplace=True)
