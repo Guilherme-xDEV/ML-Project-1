@@ -25,5 +25,6 @@ An error occurred when I tried to combine the English and Portuguese languages â
 -Day (05/01)
 
 -Day (06/01)
+Updated the spam file, it's not possible to use portuguese text with english text because of a tokenization error
 
 -Day (07/01)
